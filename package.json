@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https://haripriya757.github.io/ReactJS/",
+    "homepage": "https://haripriya757.github.io/cal/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
